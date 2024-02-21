@@ -1,0 +1,39 @@
+:root {
+  --primary-color: #523728;
+  --secondary-color: #1b0b0b;
+  --text-color: #000000;
+  --neutral-color: #ffffff;
+  --nav-color: #6f4436;
+  --button-color: #6a4028;
+  --border: #3d2619;
+  --grey: #fff8e1;
+  --border-color: #1d2729;
+  --border-text: #555555;
+  --dollar: #53a623;
+  --note: #745545;
+  --blog: #734b33;
+  --blog-text: #bb6939;
+  --blog-p: #704b33;
+  --form-place: #757575;
+  --contact: #fcae36;
+  --white-shade: #fcf9f4;
+}
+
+/* define varaibles for font-size */
+:root {
+  --heading-one-size: 69px;
+  --heading-two-size: 64px;
+  --heading-three-size: 60px;
+  --heading-four-size: 24px;
+  --heading-five-size: 20px;
+  --heading-six-size: 18px;
+  --anchor-size: 16px;
+}
+:root {
+  --inika: "--inika";
+  --poppins: "Poppins";
+  --inter: "Inter";
+  --recursive: "Recursive";
+  --roboto: "Roboto";
+  --outfit: "Outfit";
+}
